@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shubh Pathak - aka [anonshubh](https://thesynergee.herokuapp.com/profile/1/)
+### Hi there 👋, I'm Shubh Pathak - a.k.a. [anonshubh](https://thesynergee.herokuapp.com/profile/1/)
 
 <a href="https://twitter.com/anonshubh">
   <img align="left" alt="Shubh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
