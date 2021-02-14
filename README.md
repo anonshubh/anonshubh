@@ -25,7 +25,7 @@
 
 
 
-## Epistemophilic Digital Native | Developer !!
+## Developer | Epistemophilic Digital Native !!
 
 - 🔭 I’m currently working on [Synergee](https://thesynergee.herokuapp.com/).
 - 🌱 I’m currently learning more about Networks.
