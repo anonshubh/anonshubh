@@ -25,7 +25,7 @@
 
 
 
-## I'm a Developer and Tech Enthusiast !!
+## Epistemophilic Digital Native | Developer !!
 
 - 🔭 I’m currently working on [Synergee](https://thesynergee.herokuapp.com/).
 - 🌱 I’m currently learning more about Networks.
