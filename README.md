@@ -27,7 +27,7 @@
 
 ## Developer | Epistemophilic Digital Native !!
 
-- 🔭 I’m currently working on [Synergee](https://thesynergee.herokuapp.com/).
+- 🔭 I’m currently working on [Digi-Sports](https://github.com/anonshubh/digi_sports).
 - 🌱 I’m currently learning more about Networks.
 - 👯 I’m looking to collaborate with Developers for solving real-life issues using Technology.
 - 💬 Ask me about Development or any tech related stuff, Would love to answer them.
