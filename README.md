@@ -33,7 +33,7 @@
 - 💬 Ask me about Development or any tech related stuff, Would love to answer them.
 - 📫 How to reach me: [Twitter - @anonshubh](https://twitter.com/anonshubh) , [Instagram - @anonshubh](https://instagram.com/anonshubh/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Living under Cryptic Shade ⚡️
+- ⚡ Fun fact: Living under Cryptic Shade ⚡️🍍
 
 ### Languages and Tools:
 
