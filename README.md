@@ -25,15 +25,15 @@
 
 
 
-## Developer | Epistemophilic Digital Native !!
+## Digital Native | Developer !!
 
 - 🔭 I’m currently working on [Digi-Connect](https://github.com/anonshubh/digi-connect).
-- 🌱 I’m currently learning more about Networks.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate with Developers for solving real-life issues using Technology.
 - 💬 Ask me about Development or any tech related stuff, Would love to answer them.
-- 📫 How to reach me: [Twitter - @anonshubh](https://twitter.com/anonshubh) , [Instagram - @anonshubh](https://instagram.com/anonshubh/)
+- 📫 How to reach me: [Twitter - @anonshubh](https://twitter.com/anonshubh)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Living under Cryptic Shade ⚡️🍍
+- ⚡ Fun fact: Living under Cryptic Shade🍍
 
 ### Languages and Tools:
 
