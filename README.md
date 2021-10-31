@@ -21,7 +21,7 @@
 ## Digital Native | Developer !!
 
 - 🔭 I’m currently working on [Digi-Connect](https://github.com/anonshubh/digi-connect).
-- 🌱 I’m currently learning Smart Contracts.
+- 🌱 I’m currently learning Networks.
 - 👯 I’m looking to collaborate with Developers for solving real-life issues using Technology.
 - 💬 Ask me about Development or any tech related stuff, Would love to answer them.
 - 📫 How to reach me: [Twitter - @anonshubh](https://twitter.com/anonshubh)
