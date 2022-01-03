@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shubh Pathak - a.k.a. [anonshubh](https://thesynergee.herokuapp.com/profile/1/)
+### Hi there 👋, I'm Shubh Pathak
 
 <a href="https://twitter.com/anonshubh">
   <img align="left" alt="Shubh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -6,24 +6,15 @@
 <a href="https://linkedin.com/in/anonshubh">
   <img align="left" alt="Shubh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/anonshubh">
-  <img align="left" alt="Shubh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://t.me/anonshubh ">
   <img align="left" alt="Shubh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
 <br/>
-<br/>
-
-
 
 ## Digital Native | Developer !!
 
-- 🔭 I’m currently working on [Digi-Connect](https://github.com/anonshubh/digi-connect).
-- 🌱 I’m currently learning Networks.
-- 👯 I’m looking to collaborate with Developers for solving real-life issues using Technology.
-- 💬 Ask me about Development or any tech related stuff, Would love to answer them.
+- 🌱 I’m currently learning about Smart Contracts.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [Twitter - @anonshubh](https://twitter.com/anonshubh)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Living under Cryptic Shade🍍
