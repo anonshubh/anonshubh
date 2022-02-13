@@ -14,7 +14,7 @@
 ## Digital Native | Developer !!
 
 - 🌱 I’m currently learning about Smart Contracts.
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Here to Build Tech and collaborate.
 - 📫 How to reach me: [Twitter - @anonshubh](https://twitter.com/anonshubh)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Living under Cryptic Shade🍍
