@@ -4,7 +4,7 @@
   <img align="left" alt="Shubh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/anonshubh">
-  <img align="left" alt="Shubh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shubh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/anonshubh ">
   <img align="left" alt="Shubh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning about building scalable systems.
 - 💬 Here to Build Tech and collaborate.
-- 📫 How to reach me: [Linkdein]([https://twitter.com/anonshubh](https://linkedin.com/in/anonshubh))
+- 📫 How to reach me: [Linkedin]([https://linkedin.com/in/anonshubh](https://linkedin.com/in/anonshubh))
 - 😄 Pronouns: He/His
 - ⚡ Fact: Remembrance
 
