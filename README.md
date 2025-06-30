@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently learning about building scalable systems.
 - 💬 Here to Build Tech and collaborate.
-- 📫 How to reach me: [Linkedin]([https://linkedin.com/in/anonshubh](https://linkedin.com/in/anonshubh))
 - 😄 Pronouns: He/His
 - ⚡ Fact: Remembrance
 
